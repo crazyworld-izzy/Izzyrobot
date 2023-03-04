@@ -10,8 +10,8 @@ from KRISTY import telethn as tbot
 from KRISTY.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/d63434572de603ac332e2.mp4",
-    "https://telegra.ph/file/d63434572de603ac332e2.mp4",
+    "https://te.legra.ph/file/1e5a7fa65456e3fa7d54d.jpg",
+    "https://te.legra.ph/file/1e5a7fa65456e3fa7d54d.jpg",
 ]
 
 
