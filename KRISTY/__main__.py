@@ -789,7 +789,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙆𝙍𝙄𝙎𝙏𝙔](https://t.me/one_love_support_team)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪᴢᴢʏ](https://t.me/Pacha_pulla_nannu)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
