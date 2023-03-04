@@ -789,7 +789,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪ ᴢ ᴢ ʏ ʏ ɪ ʀ](https://t.me/Pacha_pulla_nannu)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪ ᴢ ᴢ ʏ ʏ ɪ ʀ](https://t.me/king_of_izzyy)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
