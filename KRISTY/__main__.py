@@ -118,8 +118,8 @@ buttons = [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/one_love_support_team"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/one_love_support_team"),
     ],
 ]
 
@@ -789,7 +789,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙆𝙍𝙄𝙎𝙏𝙔](https://t.me/TEAMXTRON)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙆𝙍𝙄𝙎𝙏𝙔](https://t.me/one_love_support_team)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
