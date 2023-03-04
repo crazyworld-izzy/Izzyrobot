@@ -781,7 +781,7 @@ def main():
                 caption=f"""
 ㅤ{dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 ━━━━━━━━━━━━━
-» **ᴏᴡɴᴇʀ :** [ɪᴢᴢʏ](https://t.me/{OWNER_USERNAME})
+» **ᴏᴡɴᴇʀ :** [ɪ ᴢ ᴢ ʏ ʏ ɪ ʀ](https://t.me/{OWNER_USERNAME})
 » **ʟɪʙʀᴀʀʏ  :** `{so}`
 » **ᴛᴇʟᴇᴛʜᴏɴ :** `{am}`
 » **ᴘʏʀᴏɢʀᴀᴍ :** `{do}`
@@ -789,7 +789,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪᴢᴢʏ](https://t.me/Pacha_pulla_nannu)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ɪ ᴢ ᴢ ʏ ʏ ɪ ʀ](https://t.me/Pacha_pulla_nannu)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
