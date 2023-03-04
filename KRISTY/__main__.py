@@ -754,7 +754,7 @@ def donate(update: Update, context: CallbackContext):
 
 def migrate_chats(update: Update, context: CallbackContext):
     msg = update.effective_message  # type: Optional[Message]
-    if msg.migrate_to_chat_id:
+    if msg.migrate_to_chat_id
         old_chat = update.effective_chat.id
         new_chat = msg.migrate_to_chat_id
     elif msg.migrate_from_chat_id:
@@ -777,7 +777,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/d63434572de603ac332e2.jpg",
+                animation="https://telegra.ph/file/d63434572de603ac332e2.mp4",
                 caption=f"""
 ㅤ{dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 ━━━━━━━━━━━━━
