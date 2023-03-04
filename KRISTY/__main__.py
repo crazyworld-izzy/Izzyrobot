@@ -88,7 +88,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-DONATION_LINK = "https://t.me/I_AM_PRO_KING"
+DONATION_LINK = "https://t.me/Pacha_pulla_nannu"
 
 start_txt = """
 ʜᴇʏ🥀 `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!
@@ -441,7 +441,7 @@ def KRISTY_about_callback(update, context):
                 [
                  [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/i_am_pro_king"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Pacha_pulla_nannu"),
                  ],
                  [
         InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/ALTRON-XD/KRISTY"),
